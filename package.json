@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-formik": "^0.1.5",
+    "yup": "^1.0.2"
+  }
+}
